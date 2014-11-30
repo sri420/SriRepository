@@ -17,7 +17,7 @@ public class SpringMVCController {
 
 	}
 	
-	
+	//test
 	@RequestMapping(value="/springMVCReturnJSON.web", 
 			method=RequestMethod.GET,
 			produces={"application/json"})
